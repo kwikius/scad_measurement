@@ -1,0 +1,19 @@
+{
+    "fileFormatVersion": "1",
+    "parameterSets": {
+        "New set 1": {
+            "xangle": "-35",
+            "yangle": "45"
+        },
+        "diagonal measurement": {
+            "distance": "34",
+            "xangle": "-35",
+            "yangle": "45"
+        },
+        "z measurement": {
+            "distance": "20",
+            "xangle": "0",
+            "yangle": "0"
+        }
+    }
+}
