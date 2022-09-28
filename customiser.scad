@@ -2,7 +2,7 @@ use <measurement.scad>
 
 xangle = -35;
 yangle = 45;
-distance = 35;
+distance = 34;
 
 cube([20,20,20]);
 
